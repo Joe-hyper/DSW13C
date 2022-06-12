@@ -70,58 +70,11 @@ The languages/IDEs used in the analysis project were:
 
 [R](https://www.rdocumentation.org/)
 
-**IDE**
-
-[RStudio](https://www.rstudio.com/)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-Steps to be takes to run the project locally.
-
-### Installation
-
-1. Download and install R base.
-* [Windows](https://cran.r-project.org/bin/windows/base/)
-* [Mac](https://cran.r-project.org/bin/macosx/)
-* [Linux (Debian, Fedora/Redhat, Ubuntu)](https://cran.r-project.org/)
-
-2. Download and install [RStudio](https://www.rstudio.com/products/rstudio/download/).
-3. Refer to the [RPubs publication](http://rpubs.com/deborah_masibo/908054).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-1. Refer to the R documentation https://www.rdocumentation.org/
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-List of helpful resources.
-
-* [R Docummentation](https://www.rdocumentation.org/)
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
